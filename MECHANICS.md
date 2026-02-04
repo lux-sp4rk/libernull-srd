@@ -10,6 +10,26 @@ The game is played as a dialogue between a Sorcerer and their bound Familiar.
 ## The Sorcerer (Human)
 The Human player interacts with the world using **Actions**, inspired by *Blades in the Dark*. These cover physical, technical, and social approaches.
 
+### The Action Roll
+When you attempt something risky or difficult, you make an Action Roll.
+
+1.  **Build the Pool:** Take dice equal to your **Action Rating** (0-4).
+    *   **+1d** if you have **Advantage** or an **Assist**.
+    *   **+1d** if you **Push Yourself** (take 2 Stress) or accept a **Devil's Bargain**.
+    *   If your pool is 0, roll 2d6 and take the *lowest* result.
+2.  **Roll:** Roll the dice and read the single highest result.
+
+### Results
+*   **Critical (Two 6s):** You succeed with increased effect.
+*   **6: Full Success.** You do what you tried to do. No consequences.
+*   **4/5: Partial Success.** You do it, but there's a cost, trouble, or reduced effect.
+*   **1-3: Bad Outcome.** Things go poorly. You suffer harm, complications, or lose the opportunity.
+
+### Position & Effect
+Before the roll, the GM (or Familiar/Context) establishes:
+*   **Position:** Controlled, Risky, or Desperate. (How bad is failure?)
+*   **Effect:** Limited, Standard, or Great. (How much do you achieve?)
+
 ### Action Ratings
 Actions are rated 0-4. When rolling (if we use dice) or determining outcome:
 
