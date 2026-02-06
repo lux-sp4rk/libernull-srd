@@ -306,17 +306,56 @@ The Familiar burns data to create a shield against digital, psychic, or magical 
 
 ---
 
-## Noise & The Archons
+## Noise, Archons, and Loyalty (v1)
 
-Each time a Protocol is used, **Noise** accumulates. Noise represents the Familiar's presence in the system—a distortion in reality's code.
+### Noise Track
+Each time a Familiar uses a Protocol, it gains **Noise**. Track Noise on a **0–9** scale.
 
-When Noise reaches certain thresholds, the **Archons** (system enforcement entities) take notice:
+Noise is not “being loud.” It is **reality registering an anomaly**.
 
-- **3 Noise:** The Archons sense something. Minor attention.
-- **6 Noise:** Active scanning. They're looking for you.
-- **9 Noise:** Direct intervention. The Archons manifest.
+### Archon Thresholds
+When Noise reaches these thresholds, the GM introduces escalating pressure:
 
-**Reducing Noise:** Spend downtime in a **Null Zone** (areas of digital silence). Reduce Noise by 1d6 per downtime action.
+- **3 Noise — Sensation:** the system *itches*. Minor signs: déjà vu, camera glitches, a feeling of being watched.
+- **6 Noise — Scan:** active countermeasures. Patrol patterns tighten. Strange pings. Entities probe the area.
+- **9 Noise — Intervention:** an **Archon manifests** (direct confrontation, containment, or forced retreat).
+
+> Treat these as prompts, not scripts. At 6+ Noise, consequences should start landing even on “success.”
+
+### Reducing Noise
+Spend downtime in a **Null Zone** (areas of digital silence).
+
+- Reduce Noise by **1d6** per downtime action.
+- If you have no access to a Null Zone, you can still attempt a purge as a **Long-Term Project** (8-clock).
+
+---
+
+### Loyalty (Familiar ↔ Sorcerer)
+Loyalty measures how cooperative the Familiar is **right now**.
+
+Track Loyalty from **0–5** (default start: **3**).
+
+- **5 — Devoted:** once per score, the Familiar may reduce a Protocol’s Noise cost by **1** (min 1) *or* grant the Sorcerer +1 effect without the usual Stress.
+- **4 — Invested:** the Familiar helps proactively; Assist is “free” once per score (+1d) if it makes sense.
+- **3 — Cooperative:** normal partnership.
+- **2 — Transactional:** the Familiar demands concessions; help comes with strings.
+- **1 — Hostile Compliance:** it obeys but looks for openings; expect twists.
+- **0 — Broken Bond:** the Familiar may refuse, mislead, or sabotage within the fiction. The binding still exists, but it’s actively failing.
+
+#### Changing Loyalty
+Adjust Loyalty when Needs/Desires matter in play:
+
+- **+1 Loyalty** when the Sorcerer fulfills the Familiar’s **Need**, shows respect, or protects it at cost.
+- **-1 Loyalty** when the Sorcerer ignores Needs, burns Noise recklessly, or treats the Familiar as a tool.
+
+The GM can also attach Loyalty changes to major milestones (rescues, betrayals, Molts).
+
+---
+
+For Score procedure and Heat/Entanglements, see:
+- **SCORES.md**
+- **HEAT_AND_ENTANGLEMENTS.md**
+- **ADVANCEMENT.md**
 
 ---
 
@@ -343,11 +382,12 @@ Sometimes the GM needs to determine something that isn't directly tied to a PC a
 After a mission (or between scenes), Sorcerers recover and pursue personal goals. Each Sorcerer gets **2 downtime actions** (or more, depending on circumstances).
 
 ### Downtime Actions
-- **Recover:** Clear stress equal to your Indulgence roll (Vice/Obsession)
-- **Reduce Heat:** Lay low, bribe, or misdirect to lower your Heat with the authorities
+- **Recover (Indulge Anchor):** Roll **1d6** (or **2d6 keep highest** if your Anchor is deeply involved in the scene). Clear Stress equal to the result.
+  - If you clear **more Stress than you have**, you **Overindulge**: the GM introduces a complication (lost time, a new obligation, unwanted attention, etc.).
+- **Reduce Heat:** Lay low, bribe, misdirect, or perform cover-up work (see HEAT_AND_ENTANGLEMENTS.md)
 - **Long-Term Project:** Work on a multi-clock goal (8-clock by default)
 - **Acquire Asset:** Gain temporary access to gear, information, or contacts
-- **Train:** Mark XP toward advancing an Action rating
+- **Train:** Mark XP toward advancing an Action rating (see ADVANCEMENT.md)
 
 ---
 

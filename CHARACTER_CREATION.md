@@ -24,14 +24,17 @@ You begin with **7 Action Dots**.
 2.  **Free Assignment:** Assign **3 additional dots** to any Actions you choose (up to a max of 2 dots in any single Action at start).
 
 ## 3. Choose a Special Ability
-Pick one starting ability from your Paradigm list (SRD expansion pending).
+Pick one starting ability from your Paradigm list.
 
-*   *Universal Ability - Ritual:* Any Sorcerer can attempt long-form magic, but Mystics are naturally better at it.
+Until the full lists are written, use the **stub lists** in **ADVANCEMENT.md**.
+
+*Universal Ability — Ritual:* Any Sorcerer can attempt long-form magic, but Mystics are naturally better at it.
 
 ## 4. Define Your Anchor
 The Anchor is what keeps you human. It prevents you from dissolving into the data stream or being possessed by your Familiar.
-*   **Examples:** A loved one, a specific vice, a creative project, a physical location, a debt you owe.
-*   **Mechanic:** You indulge your Anchor to clear Stress.
+
+- **Examples:** a loved one, a vice/obsession, a creative project, a physical place, a debt you owe.
+- **Mechanic:** in downtime you **Indulge Anchor** to clear Stress (see MECHANICS.md → Downtime).
 
 ## 5. Define The Bond
 How did you meet your Familiar?
